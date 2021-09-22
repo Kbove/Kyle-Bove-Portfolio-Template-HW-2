@@ -15,4 +15,4 @@ Employers want to know what I'm bringing to the table so I've made it easy for t
 ##### Screenshot of deployed application
 ![Kyle Portfolio Screenshot](https://user-images.githubusercontent.com/89953218/134281336-d09a082c-05ed-4f04-b990-0a2ae773c331.JPG)
 ![Capture](https://user-images.githubusercontent.com/89953218/134282085-0b2d2b69-721a-480e-8305-ea407741e0c9.JPG)
-
+![min screenshot](https://user-images.githubusercontent.com/89953218/134282120-b30d2d69-8a61-44f1-9399-164f5bceb117.JPG)
