@@ -13,4 +13,4 @@ https://kbove.github.io/Kyle-Bove-HW-2-Portfolio-Template/#about-me
 Employers want to know what I'm bringing to the table so I've made it easy for them to see who I am and what I'm working on.
 
 ##### Screenshot of deployed application
-C:\Users\kbove\documents\uw-virt-fsf-ft-09-2021-u-lol\week-01\02-Advanced-CSS\02-Homework\Assets\Kyle Portfolio Screenshot.JPG
+![Kyle Portfolio Screenshot](https://user-images.githubusercontent.com/89953218/134281336-d09a082c-05ed-4f04-b990-0a2ae773c331.JPG)
